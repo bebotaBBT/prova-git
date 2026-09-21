@@ -1,1 +1,1 @@
-Benvinguts em dic Bernat
+println("Benvinguts em dic Bernat")
