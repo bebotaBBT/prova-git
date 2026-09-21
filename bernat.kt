@@ -1,0 +1,1 @@
+Benvinguts em dic Bernat
